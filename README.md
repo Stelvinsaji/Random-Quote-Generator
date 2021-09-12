@@ -1,6 +1,6 @@
 Advice Generator - https://daily-advice-generator.netlify.app/
 
-This Advice Generator will give you advice that will be revelant in any situation. 
+This Advice Generator will give you advice that will be relevant in any situation. 
 
 So often, there is not enough advice from friends and relatives, or just from a random person. So why not go to the generator? Perhaps he will say something real and useful.
 
