@@ -1,4 +1,4 @@
-Advice Generator - https://daily-advice-generator.netlify.app/
+Random Quote Generator - https://daily-advice-generator.netlify.app/
 
 This Advice Generator will give you advice that will be relevant in any situation. 
 
